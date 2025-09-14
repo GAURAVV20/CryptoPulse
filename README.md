@@ -1,8 +1,8 @@
-CryptoPulse
+# CryptoPulse
 
 A real-time cryptocurrency dashboard built with React.js and Chart.js, designed to track live prices and visualize trends for Bitcoin (BTC), Ethereum (ETH), and BNB.
 
-🚀 Features
+## 🚀 Features
 
 📊 Interactive Line Graphs for BTC, ETH, and BNB.
 
@@ -21,7 +21,7 @@ A real-time cryptocurrency dashboard built with React.js and Chart.js, designed 
 
 ⚡ Responsive design, works across devices.
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 Frontend: React.js, JavaScript (ES6+), CSS
 
@@ -32,7 +32,7 @@ API: CoinGecko API
 
 Other Tools: Axios, Git
 
-📂 Project Structure
+## 📂 Project Structure
 CryptoPulse/
 │── public/           # Static files (index.html, favicon)
 │── src/
@@ -43,7 +43,7 @@ CryptoPulse/
 │── package.json      # Dependencies & scripts
 │── README.md         # Project documentation
 
-⚡ Installation & Setup
+## ⚡ Installation & Setup
 
 Follow these steps to run CryptoPulse locally:
 
@@ -65,10 +65,10 @@ npm start
 
 Open in browser → http://localhost:3000
 
-🎉
+# 🎉
 
 
-🔮 Future Improvements
+## 🔮 Future Improvements
 
 -> Add support for more cryptocurrencies.
 
@@ -77,7 +77,7 @@ Open in browser → http://localhost:3000
 -> Add user authentication & favorites list.
 
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Palepu Venkata Krishna Gaurav
 
